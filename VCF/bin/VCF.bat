@@ -1,0 +1,1 @@
+java -jar VCF.jar -I:"Contacts 2019.05.05.vcf";"Contacts 2020.01.18.vcf";"Contacts 2020.03.21.vcf";"Contacts_2018.12.01.vcf";"Contacts_2019.10.11.vcf";"Contacts_20170305.vcf";"Contacts_20191111.vcf" -F2 1>log

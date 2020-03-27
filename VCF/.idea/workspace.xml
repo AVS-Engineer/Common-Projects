@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="264011dd-7084-4282-b4bd-4ef03db8ce17" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZfcLbOINM4kYtnigc6zC9dT1g6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+  </component>
+  <component name="RunManager">
+    <configuration name="VCF" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.avs.vcf.VCF" />
+      <module name="VCF" />
+      <option name="PROGRAM_PARAMETERS" value="-I:&quot;Contacts 2019.05.05.vcf&quot; -F1 -F2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exe" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ru.avs.vcf.VCF" />
+      <option name="PROGRAM_PARAMETERS" value="-I:&quot;Contacts 2019.05.05.vcf&quot;" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exe" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="264011dd-7084-4282-b4bd-4ef03db8ce17" name="Default Changelist" comment="" />
+      <created>1585233533635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585233533635</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585244024869">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1585244024869" />
+    <state x="765" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1585254720342">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1585254720342" />
+    <state x="689" y="314" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585250862508">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="689" y="314" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1585250862508" />
+    <state width="431" height="466" key="DebuggerActiveHint" timestamp="1585255909312">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="431" height="466" key="DebuggerActiveHint/0.0.1920.1050@0.0.1920.1050" timestamp="1585255909312" />
+    <state x="740" y="282" key="FileChooserDialogImpl" timestamp="1585233719115">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="282" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1585233719115" />
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom" timestamp="1585260441638">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1585260441638" />
+    <state width="1877" height="261" key="GridCell.Tab.0.center" timestamp="1585260441638">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1585260441638" />
+    <state width="1877" height="261" key="GridCell.Tab.0.left" timestamp="1585260441638">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1585260441638" />
+    <state width="1877" height="261" key="GridCell.Tab.0.right" timestamp="1585260441638">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1585260441638" />
+    <state width="1877" height="261" key="GridCell.Tab.1.bottom" timestamp="1585260441638">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1585260441638" />
+    <state width="1877" height="261" key="GridCell.Tab.1.center" timestamp="1585260441638">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1585260441638" />
+    <state width="1877" height="261" key="GridCell.Tab.1.left" timestamp="1585260441638">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1585260441638" />
+    <state width="1877" height="261" key="GridCell.Tab.1.right" timestamp="1585260441638">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1585260441638" />
+    <state x="440" y="102" key="SettingsEditor" timestamp="1585250894521">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="440" y="102" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1585250894521" />
+    <state x="668" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1585233537025">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="668" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1585233537025" />
+  </component>
+</project>
